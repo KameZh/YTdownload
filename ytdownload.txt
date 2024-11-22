@@ -1,2 +1,19 @@
-
 pip install yt-dlp pygame
+pip install altgraph certifi                   charset-normalizer        comtypes                  idna                      packaging            pefile                    
+pip                       
+playsound                 
+pydub                     
+pygame                    
+pyinstaller               
+pyinstaller-hooks-contrib 
+pypiwin32                 
+pyttsx3                   
+pywin32                   
+pywin32-ctypes            
+requests                  
+setuptools                
+SpeechRecognition         
+typing_extensions         
+urllib3                   
+wheel                     
+yt-dlp 
